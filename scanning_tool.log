@@ -1,0 +1,89 @@
+2025-09-24 21:14:29 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 21:14:29 - __main__ - INFO - Model qwen2.5vl:3b not found. Pulling now...
+2025-09-24 21:16:45 - __main__ - INFO - Model qwen2.5vl:3b installed successfully.
+2025-09-24 21:16:45 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 21:20:08 - __main__ - INFO - Config saved.
+2025-09-24 21:20:21 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 21:20:21 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 21:20:21 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 21:20:34 - __main__ - INFO - Continuous mode: True
+2025-09-24 21:20:37 - __main__ - INFO - Continuous mode: False
+2025-09-24 21:20:38 - __main__ - INFO - Continuous mode: True
+2025-09-24 21:20:40 - __main__ - INFO - Scan result: {'code': '12888', 'code_raw': '12.888', 'info': None, 'raw_text': '12.888'}
+2025-09-24 21:20:40 - __main__ - INFO - Scan result: {'code': '12888', 'code_raw': '12.888', 'info': None, 'raw_text': '12.888'}
+2025-09-24 21:20:41 - __main__ - INFO - Continuous mode: False
+2025-09-24 21:20:46 - __main__ - INFO - Config saved.
+2025-09-24 21:20:47 - __main__ - INFO - Config saved.
+2025-09-24 21:20:57 - __main__ - INFO - Scan result: {'code': '128880', 'code_raw': '12,8880', 'info': {'name': 'Obsidian', 'key': 'OBSIDIAN', 'rarity': 'common', 'base_code': 1790, 'deposits': 72, 'category': 'Rock Deposits'}, 'raw_text': '12,8880'}
+2025-09-24 21:21:00 - __main__ - INFO - Scan result: {'code': '128880', 'code_raw': '12,8880', 'info': {'name': 'Obsidian', 'key': 'OBSIDIAN', 'rarity': 'common', 'base_code': 1790, 'deposits': 72, 'category': 'Rock Deposits'}, 'raw_text': '12,8880'}
+2025-09-24 21:21:11 - __main__ - INFO - Config saved.
+2025-09-24 22:45:39 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 22:45:39 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 22:50:39 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 22:50:40 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 22:59:22 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 22:59:22 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 22:59:22 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 23:01:56 - __main__ - INFO - Config saved.
+2025-09-24 23:05:01 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 23:05:01 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 23:05:02 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 23:16:13 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 23:16:13 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 23:19:19 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 23:19:19 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 23:19:19 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 23:22:34 - __main__ - INFO - Scan result: {'code': '1234', 'code_raw': '1234', 'info': None, 'raw_text': '1234'}
+2025-09-24 23:23:09 - __main__ - INFO - Scan result: {'code': '1646', 'code_raw': '1.646', 'info': None, 'raw_text': '1.646'}
+2025-09-24 23:23:12 - __main__ - INFO - Scan result: {'code': '1840', 'code_raw': '1.840', 'info': {'name': 'Gneiss', 'key': 'GNEISS', 'rarity': 'common', 'base_code': 1840, 'deposits': 1, 'category': 'Rock Deposits'}, 'raw_text': '1.840'}
+2025-09-24 23:23:15 - __main__ - INFO - Scan result: {'code': None, 'code_raw': 'x1', 'info': None, 'raw_text': 'x1'}
+2025-09-24 23:23:18 - __main__ - INFO - Scan result: {'code': None, 'code_raw': 'x1', 'info': None, 'raw_text': 'x1'}
+2025-09-24 23:23:20 - __main__ - INFO - Scan result: {'code': None, 'code_raw': 'x1', 'info': None, 'raw_text': 'x1'}
+2025-09-24 23:23:23 - __main__ - INFO - Scan result: {'code': '13160', 'code_raw': '13160', 'info': None, 'raw_text': '13160'}
+2025-09-24 23:23:26 - __main__ - INFO - Scan result: {'code': '91150', 'code_raw': '91.150', 'info': None, 'raw_text': '91.150'}
+2025-09-24 23:23:29 - __main__ - INFO - Scan result: {'code': '14160', 'code_raw': '14.160', 'info': {'name': 'Felsic', 'key': 'FELSIC', 'rarity': 'common', 'base_code': 1770, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '14.160'}
+2025-09-24 23:23:32 - __main__ - INFO - Scan result: {'code': None, 'code_raw': 'x8', 'info': None, 'raw_text': 'x8'}
+2025-09-24 23:23:35 - __main__ - INFO - Scan result: {'code': '1313', 'code_raw': '1313', 'info': None, 'raw_text': '1313'}
+2025-09-24 23:23:37 - __main__ - INFO - Scan result: {'code': '12', 'code_raw': '12', 'info': None, 'raw_text': '12'}
+2025-09-24 23:23:40 - __main__ - INFO - Scan result: {'code': '1790', 'code_raw': '1790', 'info': {'name': 'Obsidian', 'key': 'OBSIDIAN', 'rarity': 'common', 'base_code': 1790, 'deposits': 1, 'category': 'Rock Deposits'}, 'raw_text': '1790'}
+2025-09-24 23:23:43 - __main__ - INFO - Scan result: {'code': '04', 'code_raw': '04', 'info': None, 'raw_text': '04'}
+2025-09-24 23:23:46 - __main__ - INFO - Scan result: {'code': None, 'code_raw': '4', 'info': None, 'raw_text': '4'}
+2025-09-24 23:23:48 - __main__ - INFO - Scan result: {'code': '04', 'code_raw': '04', 'info': None, 'raw_text': '04'}
+2025-09-24 23:23:51 - __main__ - INFO - Scan result: {'code': '0456', 'code_raw': '0456', 'info': None, 'raw_text': '0456'}
+2025-09-24 23:23:55 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:23:57 - __main__ - INFO - Scan result: {'code': '6080', 'code_raw': '6080', 'info': None, 'raw_text': '6080'}
+2025-09-24 23:24:00 - __main__ - INFO - Scan result: {'code': '6000', 'code_raw': '6000', 'info': {'name': 'Metal Pannals', 'key': 'SALVAGE', 'rarity': 'common', 'base_code': 2000, 'deposits': 3, 'category': 'Savlage'}, 'raw_text': '6000'}
+2025-09-24 23:24:03 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:24:07 - __main__ - INFO - Scan result: {'code': '123456', 'code_raw': '123456', 'info': None, 'raw_text': '123456'}
+2025-09-24 23:24:07 - __main__ - INFO - Config saved.
+2025-09-24 23:27:01 - __main__ - INFO - Ollama found: ollama version is 0.12.1
+2025-09-24 23:27:01 - __main__ - INFO - Model qwen2.5vl:3b already installed.
+2025-09-24 23:27:01 - __main__ - INFO - Hotkeys registered: '7' for single scan, 'Ctrl+7' for continuous toggle, '8' for border toggle
+2025-09-24 23:27:26 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15.600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15.600'}
+2025-09-24 23:28:10 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15600'}
+2025-09-24 23:28:14 - __main__ - INFO - Scan result: {'code': '15500', 'code_raw': '15.500', 'info': {'name': 'Gems', 'key': 'GEMS', 'rarity': 'common', 'base_code': 620, 'deposits': 25, 'category': 'Gems'}, 'raw_text': '15.500'}
+2025-09-24 23:28:18 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15.600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15.600'}
+2025-09-24 23:28:21 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15.600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15.600'}
+2025-09-24 23:28:25 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15.600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15.600'}
+2025-09-24 23:28:29 - __main__ - INFO - Scan result: {'code': '149', 'code_raw': '149', 'info': None, 'raw_text': '149'}
+2025-09-24 23:28:32 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15,600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15,600'}
+2025-09-24 23:28:36 - __main__ - INFO - Scan result: {'code': '15600', 'code_raw': '15.600', 'info': {'name': 'Igneous', 'key': 'IGNEOUS', 'rarity': 'common', 'base_code': 1950, 'deposits': 8, 'category': 'Rock Deposits'}, 'raw_text': '15.600'}
+2025-09-24 23:28:40 - __main__ - INFO - Scan result: {'code': '12500', 'code_raw': '12.500', 'info': None, 'raw_text': '12.500'}
+2025-09-24 23:28:43 - __main__ - INFO - Scan result: {'code': '12580', 'code_raw': '12580', 'info': None, 'raw_text': '12580'}
+2025-09-24 23:28:47 - __main__ - INFO - Scan result: {'code': '12500', 'code_raw': '12500', 'info': None, 'raw_text': '12500'}
+2025-09-24 23:28:51 - __main__ - INFO - Scan result: {'code': '12500', 'code_raw': '12500', 'info': None, 'raw_text': '12500'}
+2025-09-24 23:28:54 - __main__ - INFO - Scan result: {'code': '123', 'code_raw': '123', 'info': None, 'raw_text': '123'}
+2025-09-24 23:28:58 - __main__ - INFO - Scan result: {'code': '9600', 'code_raw': '9.600', 'info': {'name': 'Granite', 'key': 'GRANITE', 'rarity': 'common', 'base_code': 1920, 'deposits': 5, 'category': 'Rock Deposits'}, 'raw_text': '9.600'}
+2025-09-24 23:29:01 - __main__ - INFO - Scan result: {'code': '9600', 'code_raw': '9600', 'info': {'name': 'Granite', 'key': 'GRANITE', 'rarity': 'common', 'base_code': 1920, 'deposits': 5, 'category': 'Rock Deposits'}, 'raw_text': '9600'}
+2025-09-24 23:29:05 - __main__ - INFO - Scan result: {'code': '9600', 'code_raw': '9,600', 'info': {'name': 'Granite', 'key': 'GRANITE', 'rarity': 'common', 'base_code': 1920, 'deposits': 5, 'category': 'Rock Deposits'}, 'raw_text': '9,600'}
+2025-09-24 23:29:08 - __main__ - INFO - Scan result: {'code': '9600', 'code_raw': '9.600', 'info': {'name': 'Granite', 'key': 'GRANITE', 'rarity': 'common', 'base_code': 1920, 'deposits': 5, 'category': 'Rock Deposits'}, 'raw_text': '9.600'}
+2025-09-24 23:29:11 - __main__ - INFO - Scan result: {'code': '9500', 'code_raw': '9.500', 'info': {'name': 'E-Type', 'key': 'ETYPE', 'rarity': 'common', 'base_code': 1900, 'deposits': 5, 'category': 'Rock Deposits'}, 'raw_text': '9.500'}
+2025-09-24 23:29:14 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:29:17 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:29:21 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:29:24 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:29:28 - __main__ - INFO - Scan result: {'code': '1234567890', 'code_raw': '1234567890', 'info': None, 'raw_text': '1234567890'}
+2025-09-24 23:29:31 - __main__ - INFO - Scan result: {'code': '123456', 'code_raw': '123456', 'info': None, 'raw_text': '123456'}
+2025-09-24 23:29:34 - __main__ - INFO - Scan result: {'code': '18000', 'code_raw': '18000', 'info': {'name': 'Atacamite', 'key': 'ATACAMITE', 'rarity': 'common', 'base_code': 1800, 'deposits': 10, 'category': 'Rock Deposits'}, 'raw_text': '18000'}
+2025-09-24 23:29:37 - __main__ - INFO - Scan result: {'code': '18000', 'code_raw': '18000', 'info': {'name': 'Atacamite', 'key': 'ATACAMITE', 'rarity': 'common', 'base_code': 1800, 'deposits': 10, 'category': 'Rock Deposits'}, 'raw_text': '18000'}
+2025-09-24 23:29:40 - __main__ - INFO - Scan result: {'code': '18000', 'code_raw': '18000', 'info': {'name': 'Atacamite', 'key': 'ATACAMITE', 'rarity': 'common', 'base_code': 1800, 'deposits': 10, 'category': 'Rock Deposits'}, 'raw_text': '18000'}
